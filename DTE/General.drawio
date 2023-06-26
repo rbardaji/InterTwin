@@ -67,7 +67,7 @@
                 <mxCell id="pVFWaNYkqrsmfqf0tAeH-46" value="Data fusion" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="pVFWaNYkqrsmfqf0tAeH-43" vertex="1">
                     <mxGeometry x="137.5" y="40" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="pVFWaNYkqrsmfqf0tAeH-57" value="Real time adquisition and processing" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" parent="pVFWaNYkqrsmfqf0tAeH-41" vertex="1">
+                <mxCell id="pVFWaNYkqrsmfqf0tAeH-57" value="Real time adquisition and processing" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;" parent="pVFWaNYkqrsmfqf0tAeH-41" vertex="1">
                     <mxGeometry x="357.5" y="35" width="232.5" height="125" as="geometry"/>
                 </mxCell>
                 <mxCell id="pVFWaNYkqrsmfqf0tAeH-55" value="Serverless computing platform" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="pVFWaNYkqrsmfqf0tAeH-57" vertex="1">
