@@ -22,3 +22,10 @@ While specific details may vary based on industry and purpose, a typical Bluepri
 Governance and Management: Tools and protocols to manage the *DT*, ensure its proper operation, and make decisions based on its insights.
 
 By following a Blueprint or architectural guide, organizations can ensure their digital twin implementation is consistent, scalable, and effective. We'll likely see further standardization and emerging best practices in this domain as this technology evolves.
+
+## Diagramos from D3.1.
+
+1. [Proposal](./proposal/README.md)
+2. [Conceptual model](./conceptual_model/README.md)
+3. [System context diagram](./system_context_diagram/README.md)
+4. [container diagram](./container_diagram/README.md)
